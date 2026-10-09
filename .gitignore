@@ -1,0 +1,11 @@
+# Dataset (download PlantVillage from Kaggle)
+Tomato_*/
+
+# Archives & duplicates
+*.zip
+mohamed_bechir_marweni/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/

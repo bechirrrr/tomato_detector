@@ -1,0 +1,7 @@
+gradio
+tensorflow
+scikit-learn
+scikit-image
+opencv-python
+matplotlib
+numpy
